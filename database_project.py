@@ -94,8 +94,6 @@ class Account:
 
 
 
-# harish = Account("harish",30)
-# harish.create_account()
-# harish.debit(50)
+
 
 print(f"hello world {print("hi")} ")
